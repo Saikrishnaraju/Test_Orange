@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-16T21:10:01 IST" name="Default suite" finished-at="2024-11-16T21:10:12 IST" duration-ms="10565">
+    <groups>
+    </groups>
+    <test started-at="2024-11-16T21:10:01 IST" name="Default test" finished-at="2024-11-16T21:10:12 IST" duration-ms="10565">
+      <class name="com.TestOrange.TestOrange">
+        <test-method signature="methodtest()[pri:0, instance:com.TestOrange.TestOrange@78691363]" started-at="2024-11-16T21:10:01 IST" name="methodtest" finished-at="2024-11-16T21:10:09 IST" duration-ms="7884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodtest -->
+        <test-method signature="methodtest2()[pri:0, instance:com.TestOrange.TestOrange@78691363]" started-at="2024-11-16T21:10:09 IST" name="methodtest2" finished-at="2024-11-16T21:10:12 IST" duration-ms="2601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodtest2 -->
+      </class> <!-- com.TestOrange.TestOrange -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
